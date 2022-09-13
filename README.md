@@ -2,7 +2,7 @@
 
 ![image-readme1](https://github.com/ranxi169/ranxi169.github.io/blob/main/photos/readme1.png)
 
-我是一个**极简主义者**，不喜欢太花哨的，这是我的主页最终呈现的效果：http://onefly.top
+我是一个**极简主义者**，不喜欢太花哨的，这是我的主页最终呈现的效果：http://onefly.top/homepage
 
 如果你喜欢这个模板，可以去我的 Github: https://github.com/ranxi169/ranxi169.github.io 下载，然后自行修改 index.html 文件。
 
